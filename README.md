@@ -1,0 +1,2 @@
+# inli
+Global page
